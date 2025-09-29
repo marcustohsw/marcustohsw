@@ -15,14 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 ---
+<h2 align="center">👩‍💻 About Me 👩‍💻</h2>
 
-## 👩‍💻 About Me  
+<p>
+Hello! I'm <b>Marcus Toh</b>, a Computer Science undergraduate (BEng Computer Science & Design) at the <b>Singapore University of Technology and Design (SUTD)</b>.
+</p>
 
-Hello! I'm **Marcus Toh**, a Computer Science undergraduate (BEng Computer Science & Design) at the **Singapore University of Technology and Design (SUTD)**.  
+<p>
+🌱 I’m passionate about <b>harvesting the power of technology</b> to create meaningful and user-centric solutions for mankind.
+</p>
 
-🌱 I’m passionate about **harvesting the power of technology** to create meaningful and user-centric solutions for mankind.  
-✨ My interests span across **Software Development, Artificial Intelligence / Machine Learning, Data Analytics, and Internet-of-Things (IoT)**.  
-🤝 I enjoy collaborating, brainstorming ideas, and building connections with people from diverse backgrounds.  
+<p>
+✨ My interests span across <b>Software Development</b>, <b>Artificial Intelligence / Machine Learning</b>, <b>Data Analytics</b>, and <b>Internet-of-Things (IoT)</b>.
+</p>
+
+<p>
+🤝 I enjoy collaborating, brainstorming ideas, and building connections with people from diverse backgrounds.
+</p>
+
+
 
 ---
 
