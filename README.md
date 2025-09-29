@@ -33,7 +33,7 @@ Hello! I'm <b>Marcus Toh</b>, a Computer Science undergraduate (BEng Computer Sc
 🤝 I enjoy collaborating, brainstorming ideas, and building connections with people from diverse backgrounds.
 </p>
 
-
+<img src="ghostedvpn-hacker-cat.gif" width="120" alt="Hacker Cat"/>
 
 ---
 
