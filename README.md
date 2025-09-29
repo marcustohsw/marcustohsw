@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
 </p> 
 
-## 🧰 Other Tools
+### 🧰 Other Tools
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
