@@ -37,12 +37,12 @@ Hello! I'm **Marcus Toh**, a Computer Science undergraduate (BEng Computer Scien
 ![Final Cut Pro](https://img.shields.io/badge/-Final%20Cut%20Pro-999999?style=flat&logo=apple&logoColor=white)  
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)  
 
-### Data & Analytics  
+### 📈 Data Analytics  
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 
-### Other Tools  
+### 🧰 Other Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)  
@@ -51,13 +51,13 @@ Hello! I'm **Marcus Toh**, a Computer Science undergraduate (BEng Computer Scien
 
 ## 📌 Featured Projects  
 - 📱 **PlantBuddy Application** → Android app using Java & Room database for Mental Health management
-- 🤖 **AI Model Experiments** → training & testing with open source models such as RF-DETR, DINOv3, and RT-DETRv2  
+- 🤖 **AI Model Experiments** → Training & Testing with open source models such as RF-DETR, DINOv3, and RT-DETRv2  
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/marcustohsw)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcustohsw)  
 📧 Email: *fuzzes_chins_3w@icloud.com*  
 
 ---
