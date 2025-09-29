@@ -17,23 +17,28 @@ Here are some ideas to get you started:
 ---
 <h2 align="center">👩‍💻 About Me 👩‍💻</h2>
 
-<p>
-Hello! I'm <b>Marcus Toh</b>, a Computer Science undergraduate (BEng Computer Science & Design) at the <b>Singapore University of Technology and Design (SUTD)</b>.
-</p>
+<table align="center">
+  <tr>
+    <!-- Text column -->
+    <td align="center" width="60%">
 
-<p>
-🌱 I’m passionate about <b>harvesting the power of technology</b> to create meaningful and user-centric solutions for mankind.
-</p>
+      Hello! I'm <b>Marcus Toh</b>, a Computer Science undergraduate (BEng Computer Science & Design) at the
+      <b>Singapore University of Technology and Design (SUTD)</b>.<br/><br/>
 
-<p>
-✨ My interests span across <b>Software Development</b>, <b>Artificial Intelligence / Machine Learning</b>, <b>Data Analytics</b>, and <b>Internet-of-Things (IoT)</b>.
-</p>
+      🌱 I’m passionate about <b>harvesting the power of technology</b> to create meaningful and user-centric solutions.<br/><br/>
 
-<p>
-🤝 I enjoy collaborating, brainstorming ideas, and building connections with people from diverse backgrounds.
-</p>
+      ✨ Interests: <b>Software Dev</b>, <b>AI/ML</b>, <b>Data Analytics</b>, <b>IoT</b>.<br/><br/>
 
-<img src="ghostedvpn-hacker-cat.gif" width="120" alt="Hacker Cat"/>
+      🤝 I enjoy collaborating, brainstorming ideas, and building connections with people from diverse backgrounds.
+
+    </td>
+
+    <!-- GIF column -->
+    <td align="center" width="40%">
+      <img src="ghostedvpn-hacker-cat.gif" alt="Hacker Cat" width="220">
+    </td>
+  </tr>
+</table>
 
 ---
 
