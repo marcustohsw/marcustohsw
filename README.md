@@ -19,20 +19,13 @@ Here are some ideas to get you started:
 
 <table align="center">
   <tr>
-    <!-- Text column -->
     <td align="center" width="60%">
-
       Hello! I'm <b>Marcus Toh</b>, a Computer Science undergraduate (BEng Computer Science & Design) at the
       <b>Singapore University of Technology and Design (SUTD)</b>.<br/><br/>
-
       🌱 I’m passionate about <b>harvesting the power of technology</b> to create meaningful and user-centric solutions.<br/><br/>
-
       ✨ Interests: <b>Software Dev</b>, <b>AI/ML</b>, <b>Data Analytics</b>, <b>IoT</b>.<br/><br/>
-
       🤝 I enjoy collaborating, brainstorming ideas, and building connections with people from diverse backgrounds.
-
     </td>
-
     <!-- GIF column -->
     <td align="center" width="40%">
       <img src="ghostedvpn-hacker-cat.gif" alt="Hacker Cat" width="220">
