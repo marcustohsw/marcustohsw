@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcustohsw)  
-📧 Email: *fuzzes_chins_3w@icloud.com*  
+📧 Email: *marcustohsw@icloud.com*  
 
 ---
 
@@ -97,5 +97,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  ✨ *“Learning how to code so I can create some pretty dang stuff.”* ✨
+  ✨ ***“Learning how to code so I can create some pretty dang stuff.”*** ✨
 </p>
