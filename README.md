@@ -1,4 +1,6 @@
-<h2 align="center">Hello World! 👋</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&size=26&duration=2400&pause=900&color=00F5D4&background=0D111700&center=true&vCenter=true&width=820&lines=Hello%2C+I'm+Marcus.;AI+x+Cybersecurity+Student;Tech+for+a+Better+World" alt="Typing SVG" />
+</p>
 
 <!--
 **marcustohsw/marcustohsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
