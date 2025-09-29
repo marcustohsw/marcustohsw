@@ -38,25 +38,37 @@ Here are some ideas to get you started:
 ## 🛠️ Skills  
 
 ### 💻 Programming & Development
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white" />
+</p>
 
-### 📷 Digital Skills  
-![iMovie](https://img.shields.io/badge/-iMovie-999999?style=flat&logo=apple&logoColor=white)  
-![Final Cut Pro](https://img.shields.io/badge/-Final%20Cut%20Pro-999999?style=flat&logo=apple&logoColor=white)  
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)  
+### 📊 Data Analytics
+<p>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+</p>
 
-### 📈 Data Analytics  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+### 🎥 Digital Skills
+<p>
+  <img src="https://img.shields.io/badge/-iMovie-999999?style=flat&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Final%20Cut%20Pro-999999?style=flat&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+</p> 
 
-### 🧰 Other Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)  
+## 🧰 Other Tools
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white" />
+</p>
 
 ---
 
