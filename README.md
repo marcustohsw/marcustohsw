@@ -1,16 +1,78 @@
-## Hi there 👋
+<h2 align="center">Hello World! 👋</h2>
 
 <!--
 **marcustohsw/marcustohsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently learning & working on Computer Vision using Open-Source Models
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
+---
+
+## 👩‍💻 About Me  
+
+Hello! I'm **Marcus Toh**, a Computer Science undergraduate (BEng Computer Science & Design) at the **Singapore University of Technology and Design (SUTD)**.  
+
+🌱 I’m passionate about **harvesting the power of technology** to create meaningful and user-centric solutions for mankind.  
+✨ My interests span across **Software Development, Artificial Intelligence / Machine Learning, Data Analytics, and Internet-of-Things (IoT)**.  
+🤝 I enjoy collaborating, brainstorming ideas, and building connections with people from diverse backgrounds.  
+
+---
+
+## 🛠️ Skills  
+
+### 💻 Programming & Development
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)  
+
+### 📷 Digital Skills  
+![iMovie](https://img.shields.io/badge/-iMovie-999999?style=flat&logo=apple&logoColor=white)  
+![Final Cut Pro](https://img.shields.io/badge/-Final%20Cut%20Pro-999999?style=flat&logo=apple&logoColor=white)  
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)  
+
+### Data & Analytics  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+
+### Other Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)  
+
+---
+
+## 📌 Featured Projects  
+- 📱 **PlantBuddy Application** → Android app using Java & Room database for Mental Health management
+- 🤖 **AI Model Experiments** → training & testing with open source models such as RF-DETR, DINOv3, and RT-DETRv2  
+
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/marcustohsw)  
+📧 Email: *fuzzes_chins_3w@icloud.com*  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcustohsw&show_icons=true&theme=tokyonight" alt="Marcus's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcustohsw&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcustohsw&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  ✨ *“Learning how to code so I can create some pretty dang stuff.”* ✨
+</p>
