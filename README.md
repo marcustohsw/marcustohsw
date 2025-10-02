@@ -97,5 +97,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  ✨ ***“Learning how to code so I can create some pretty dang stuff.”*** ✨
+  ✨ <em><strong>“Learning how to code so I can create some pretty dang stuff.”</strong></em> ✨
 </p>
+
